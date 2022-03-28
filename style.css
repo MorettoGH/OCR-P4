@@ -362,6 +362,29 @@ a:hover {
     z-index: 2;
 }
 
+/* corrections SEO du Projet 4 avec OpenClassRooms */
+
+.h2_modified {
+    padding: 0 15%;
+}
+
+.p_modified {
+    font-size: 16px;
+}
+
+.p_modified_2 {
+    font-size: 20px;
+    font-style: italic;
+    padding: 0 10%;
+    margin: 0;
+    line-height: 1.1em;
+}
+
+.p_modified_2_1 {
+    font-size: 20px;
+    line-height: 0.9em;
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
