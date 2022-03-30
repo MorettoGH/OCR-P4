@@ -365,10 +365,10 @@ a:hover {
 /* corrections SEO du Projet 4 avec OpenClassRooms */
 
 .h2_modified {
-    padding: 0 15%;
+    padding: 0 18%;
 }
 
-.p_modified {
+p {
     font-size: 16px;
 }
 
@@ -384,6 +384,8 @@ a:hover {
     font-size: 20px;
     line-height: 0.9em;
 }
+
+/* fin corrections */
 
 @media (min-width: 768px) {
     .site-navigation {
@@ -699,10 +701,6 @@ a {
     margin: auto auto auto auto;
 }
 
-p {
-    font-size: 11px;
-}
-
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
@@ -776,7 +774,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(81, 63, 46, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
@@ -845,7 +843,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.png");
 }
 
 @media (max-width: 1024px) {
