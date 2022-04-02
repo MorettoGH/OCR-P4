@@ -364,6 +364,12 @@ a:hover {
 
 /* corrections SEO du Projet 4 avec OpenClassRooms */
 
+*:focus {
+    border: 2px solid black;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
 .h2_modified {
     padding: 0 18%;
 }
@@ -383,6 +389,31 @@ p {
 .p_modified_2_1 {
     font-size: 20px;
     line-height: 0.9em;
+}
+
+.partners {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.bloc_center {
+    display: flex;
+    justify-content: center;
+}
+
+.text_modified_contact {
+    margin-left: 20px;
+    font-weight: bold;
+    color: #000000!important;
+}
+
+#bloc-7 {
+    margin-left: 20px;
+}
+
+.hover_btn:focus {
+    border: 5px black solid;
 }
 
 /* fin corrections */
