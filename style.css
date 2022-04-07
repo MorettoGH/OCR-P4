@@ -391,6 +391,12 @@ p {
     line-height: 0.9em;
 }
 
+.p_modified_3 {
+    color: white;
+    margin: 0 30%;
+    border-radius: 20px;
+    background-color: #000;
+}
 .partners {
     margin-top: 20px;
     display: flex;
@@ -403,13 +409,9 @@ p {
 }
 
 .text_modified_contact {
-    margin-left: 20px;
     font-weight: bold;
     color: #000000!important;
-}
-
-#bloc-7 {
-    margin-left: 20px;
+    text-align: center;
 }
 
 .hover_btn:focus {
